@@ -1,5 +1,7 @@
 # _benchmarking_state-reproducibility
 
+### Authors: Maria Rosaria Nucera, Cal McCrimmon, Davide Vespasiani, Kaan Öcal, Trevor Atkeson.
+
 - [x] Testing reproducibility of the pseudotime across the 3 different lines  (FSA0024I1, IST2607K3, WAB0137L8) using genes2genes to align and compare trajectories
 - [x] Testing robustness to different criteria for the choice of the root (starting point of differentiation) based on expression of markers for pluripotency/other sets of markers
 - [x] Testing what happens when the root starts from cells in a different cell cycle phase (G2M or S)
@@ -7,11 +9,11 @@
 
 
 Tools and functions 
-| Package/function | Function |       
-| ------------- | ------------- |
-| module_score (gene set) | defin start of trajectory | 
-| scFates | compute pseudotime | 
-| Genes2genes | align pseudotime | 
+| Package/function | Function |   Example |    
+| ------------- | ------------- | ------------- |
+| module_score(gene set) | define start of trajectory |  |
+| scFates | compute pseudotime |  |
+| Genes2genes | align pseudotime |  |
 
 Workflow
 ```mermaid
