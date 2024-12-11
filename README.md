@@ -10,7 +10,7 @@ Aims:
 
 
 Tools and functions used during the Hackathon
-| Package/function | Function |   Example |    
+| Package/function | Function |   Example notebook |    
 | ------------- | ------------- | ------------- |
 |  [module_score(gene set)](https://scanpy.readthedocs.io/en/stable/generated/scanpy.tl.score_genes.html) | define start of trajectory |  |
 |  [scFates](https://scfates.readthedocs.io/en/latest/) | compute pseudotime |  |
