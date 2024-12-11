@@ -12,9 +12,9 @@ Aims:
 Tools and functions used during the Hackathon
 | Package/function | Function |   Example |    
 | ------------- | ------------- | ------------- |
-|  [module_score(gene set)]([https://pages.github.com/](https://scanpy.readthedocs.io/en/stable/generated/scanpy.tl.score_genes.html)).| define start of trajectory |  |
-|  [scFates]([https://pages.github.com/](https://scfates.readthedocs.io/en/latest/)). | compute pseudotime |  |
-|  [Genes2genes]([https://pages.github.com/](https://github.com/Teichlab/Genes2Genes)).| align pseudotime |  |
+|  [module_score(gene set)](https://pages.github.com/](https://scanpy.readthedocs.io/en/stable/generated/scanpy.tl.score_genes.html) | define start of trajectory |  |
+|  [scFates](https://pages.github.com/](https://scfates.readthedocs.io/en/latest/) | compute pseudotime |  |
+|  [Genes2genes](https://pages.github.com/](https://github.com/Teichlab/Genes2Genes)| align pseudotime |  |
 
 Workflow for Testing reproducibility of the pseudotime across the 3 different lines
 ```mermaid
