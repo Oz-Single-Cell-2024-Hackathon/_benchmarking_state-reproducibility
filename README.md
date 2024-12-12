@@ -19,7 +19,7 @@
 ### Workflow for Testing reproducibility of the pseudotime across the 3 different lines
 ```mermaid
 graph TD;
-    Line_FSA0024I1 --> Pseudotime_forline_FSA0024I1_computedwith_scFates;
+    Line_FSA0024I1 --> Pseudotime_forline_FSA0024I1_computedwith_scFates[link](https://github.com/Oz-Single-Cell-2024-Hackathon/_benchmarking_state-reproducibility/blob/main/notebooks/Hackathon1lines.ipynb);
     Line_IST2607K3 --> Pseudotime_forline_IST2607K3_computedwith_scFates;
     Line_WAB0137L8 --> Pseudotime_forline_WAB0137L8_computedwith_scFates;
     Pseudotime_forline_FSA0024I1_computedwith_scFates-->Genes2Genes_trajectory_alignemnt;
