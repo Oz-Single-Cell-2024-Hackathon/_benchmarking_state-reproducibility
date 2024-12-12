@@ -27,6 +27,6 @@ graph TD;
     Pseudotime_forline_WAB0137L8_computedwith_scFates-->Genes2Genes_trajectory_alignemnt;
     Genes2Genes_trajectory_alignemnt--> Identification_of_genes_with_differential_dynamic_expression_acrosslines;
 ```
-[Pseudotime_forline_FSA0024I1_computedwith_scFates](https://github.com/Oz-Single-Cell-2024-Hackathon/_benchmarking_state-reproducibility/blob/main/notebooks/Hackathon2lines.ipynb)
-[Pseudotime_forline_IST2607K3_computedwith_scFates](https://github.com/Oz-Single-Cell-2024-Hackathon/_benchmarking_state-reproducibility/blob/main/notebooks/Hackathon1lines.ipynb)
+- [Pseudotime_forline_FSA0024I1_computedwith_scFates](https://github.com/Oz-Single-Cell-2024-Hackathon/_benchmarking_state-reproducibility/blob/main/notebooks/Hackathon2lines.ipynb)
+- [Pseudotime_forline_IST2607K3_computedwith_scFates](https://github.com/Oz-Single-Cell-2024-Hackathon/_benchmarking_state-reproducibility/blob/main/notebooks/Hackathon1lines.ipynb)
 
