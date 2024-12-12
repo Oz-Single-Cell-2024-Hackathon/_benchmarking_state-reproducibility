@@ -19,11 +19,11 @@
 ### Workflow for Testing reproducibility of the pseudotime across the 3 different lines
 ```mermaid
 graph TD;
-    Line FSA0024I1 --> Pseudotime for the line FSA0024I1 computed with scFates;
-    Line IST2607K3 --> Pseudotime for the line IST2607K3 computed with scFates;
-    Line WAB0137L8 --> Pseudotime for the line WAB0137L8 computed with scFates;
-    Pseudotime for the line FSA0024I1 computed with scFates-->Genes2Genes trajectory alignemnt;
-    Pseudotime for the line IST2607K3 computed with scFatese-->Genes2Genes trajectory alignemnt;
-    Pseudotime for the line WAB0137L8 computed with scFates-->Genes2Genes trajectory alignemnt;
-    Genes2Genes trajectory alignemnt--> Identification of genes with differential dynamic expression;
+    Line_FSA0024I1 --> Pseudotime_forline_FSA0024I1_computedwith_scFates;
+    Line_IST2607K3 --> Pseudotime_forline_IST2607K3_computedwith_scFates;
+    Line_WAB0137L8 --> Pseudotime_forline_WAB0137L8_computedwith_scFates;
+    Pseudotime_forline_FSA0024I1_computedwith_scFates-->Genes2Genes_trajectory_alignemnt;
+    Pseudotime_forline_IST2607K3_computedwith_scFates-->Genes2Genes_trajectory_alignemnt;
+    Pseudotime_forline_WAB0137L8_computedwith_scFates-->Genes2Genes_trajectory_alignemnt;
+    Genes2Genes_trajectory_alignemnt--> Identification_of_genes_with_differential_dynamic_expression_acrosslines;
 ```
