@@ -14,7 +14,7 @@
 | ------------- | ------------- | ------------- |
 |  [module_score(gene set)](https://scanpy.readthedocs.io/en/stable/generated/scanpy.tl.score_genes.html) | define start of trajectory | [stemness score](https://github.com/Oz-Single-Cell-2024-Hackathon/_benchmarking_state-reproducibility/blob/main/notebooks/root_choice.ipynb) |
 |  [scFates](https://scfates.readthedocs.io/en/latest/) | compute pseudotime | [pseudotime on the whole dataset](https://github.com/Oz-Single-Cell-2024-Hackathon/_benchmarking_state-reproducibility/blob/main/notebooks/Hackathon_data_all.ipynb) |
-|  [Genes2genes](https://github.com/Teichlab/Genes2Genes)| align pseudotime |  |
+|  [Genes2genes](https://github.com/Teichlab/Genes2Genes)| align pseudotime | [alignment pseudotime line1 and line2](https://github.com/Oz-Single-Cell-2024-Hackathon/_benchmarking_state-reproducibility/blob/main/notebooks/g2g.ipynb) |
 
 ### Workflow for Testing reproducibility of the pseudotime across the 3 different lines
 ```mermaid
