@@ -26,5 +26,4 @@ graph TD;
     Pseudotime for the line IST2607K3 computed with scFatese-->Genes2Genes trajectory alignemnt;
     Pseudotime for the line WAB0137L8 computed with scFates-->Genes2Genes trajectory alignemnt;
     Genes2Genes trajectory alignemnt--> Identification of genes with differential dynamic expression;
-   
 ```
